@@ -1,4 +1,5 @@
 # Snapchat Company Spending Classification  
+By: Jason Sheu, Ronaldo Romano
 
 ## Summary of Findings
 
